@@ -3,14 +3,11 @@ title: Hello World
 date: 2013/7/13 20:46:25
 comments: true
 categories:
-  - [Sports, Baseball]
-  - [MLB, American League, Boston Red Sox]
-  - [MLB, American League, New York Yankees]
-  - Rivalries
+  - [Test, Hello]
+  - Hello
 tags:
-  - Injury
-  - Fight
-  - Shocking
+  - Test
+  - Hello
 ---
 
 这是一次 在 cloudflare 自动部署的测试
