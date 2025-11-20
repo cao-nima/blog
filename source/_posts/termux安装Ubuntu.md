@@ -1,6 +1,6 @@
 ---
 title: termux安装Ubuntu
-date: 2024/12/31 14:46:25
+date: 2025/11/20 16:34:00
 comments: true
 categories:
   - [Linux, termux]
@@ -11,6 +11,8 @@ tags:
 
 ## termux 是什么
 todo
+
+## 换源
 
 ## termux 中如何安装 Ubuntu
 todo
